@@ -1,6 +1,5 @@
 <html>
 <body>
-<h2>Hello World!</h2>
-<h3>Hello World Welcome to Devops Classes....!!</h3>
+<h2>Hello to Devops Classes!</h2>
 </body>
 </html>
